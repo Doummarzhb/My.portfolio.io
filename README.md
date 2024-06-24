@@ -7,3 +7,4 @@ On this site, you will find a collection of my projects demonstrating my skills 
 I hope you find what you're looking for here and enjoy browsing the content of the site. Feel free to contact me with any questions or to share your feedback.
 
 Thank you for visiting!
+![myportfolio](https://github.com/Doummarzhb/My-Website/assets/98951369/173e4cdb-6f58-4fae-a8d7-e8fc79e8bf02)
