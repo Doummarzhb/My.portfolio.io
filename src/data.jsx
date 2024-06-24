@@ -42,41 +42,7 @@ export const projects = [
         },
       ]
     },
-    // {
-    //   id:2,
-    //   title: 'E-Commerce Application',
-    //   image: 'https://cdn.dribbble.com/userupload/8002230/file/original-c8eec16edea4d5c836b2bfabe7fbaa5a.jpg',
-    //   category:"Web",
-    //   data:{
-    //     description:`Enhance your online shopping experience with our E-Commerce Application 
-    //     UI design project. Seamlessly blending aesthetics with functionality, our intuitive 
-    //     interface offers easy navigation, personalized recommendations, and secure 
-    //     transactions. Elevate your digital storefront and captivate customers with a visually 
-    //     stunning design tailored to your brand`,
-    //     demoLink: "https://google.com/",
-    //   },
-    //   stack:[
-    //     {
-    //       name:"ReactJs",
-    //       icon: <DiReact/>,
-    //       iconColor:"skyblue",
-    //     },
-    //     {
-    //       name:"NodeJs",
-    //       icon: <FaNodeJs/>,
-    //       iconColor:"green",
-    //     },
-    //     {
-    //       name:"ExpressJs",
-    //       icon: <SiExpress/>,
-    //     },
-    //     {
-    //       name:"MongoDB",
-    //       icon: <SiMongodb/>,
-    //       iconColor:"limegreen",
-    //     },
-    //   ]
-    // },
+ 
     {
       id:3,
       title: 'Coffee Shop',
