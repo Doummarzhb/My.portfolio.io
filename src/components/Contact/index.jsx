@@ -21,7 +21,7 @@ function Contact() {
               <MdOutlineEmail className='contact__icon'/>
               <h3>Email</h3>
               <h5>alzahabidoummar@gmail.com</h5>
-              <a href='alzahabidoummar@gmail.com'  target='_blank' className='btn'>Send a message</a>
+              <a href='mailto:alzahabidoummar@gmail.com' target='_blank' className='btn'>Send a message</a>
             </article>
             <article className='contact__option'>
               <RiMessengerLine className='contact__icon'/>
