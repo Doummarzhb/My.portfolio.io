@@ -260,6 +260,7 @@ export const experience = [
         ]
     },
 ]
+ 
 
 
 export const socialHandles = [
@@ -267,7 +268,7 @@ export const socialHandles = [
   {
     name:"Github",
     icon:<AiFillGithub/>,
-    link:"https://github.com/github.com/Doummarzhb",
+    link:"https://github.com/Doummarzhb",
   },
   {
     name:"LinkedIn",

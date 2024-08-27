@@ -14,7 +14,7 @@ const data = [
   },
   {
     avatar:profile4,
-    name:'company:telepaty',
+    name:'company: telepaty',
     review:``
   },
   // {
