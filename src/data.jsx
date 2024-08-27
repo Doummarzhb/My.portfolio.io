@@ -275,5 +275,6 @@ export const socialHandles = [
     icon:<AiFillLinkedin/>,
     link:"https://linkedin.com/in/doummar-alzahabi-790585208",
   },
+  
  
 ];
