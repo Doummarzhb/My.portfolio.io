@@ -26,7 +26,7 @@ const Header = () => {
                 <Facts/>
                 <div className='header__info__bottom'>
                     <button className='btn'>Download CV</button>
-                    <a href='alzahabidoummar@gmail.com' className='btn'>Email ME</a>
+                    <a href='mailto:alzahabidoummar@gmail.com' className='btn'>Email Me</a>
                 </div>
             </div>
             </div>
